@@ -7,6 +7,7 @@
 ## Dependencies
 
 ```
+conda create --n cityinsight python=3.8 && conda activate cityinsight
 pip install -r requirement.txt
 ```
 
